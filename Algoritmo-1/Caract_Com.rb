@@ -28,6 +28,7 @@ def caracteres_comuns(strings, ordem = :alfabetica)
       end
     end
   
+
     # Crie uma matriz de caracteres comuns
     caracteres_comuns = []
     frequencia_comuns.each do |char, freq|
