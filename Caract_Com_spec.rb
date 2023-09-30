@@ -1,5 +1,5 @@
 
-require '/home/linux/Área de Trabalho/Curso DEV/Caract_Com.rb'
+require_relative 'Caract_Com.rb'
 require 'rspec'
 
 
