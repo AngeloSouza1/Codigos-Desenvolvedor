@@ -1,4 +1,3 @@
-
 def reordenar_arrays(arr, index)
     n = arr.length  # Passo 1: Obtemos o tamanho do array
   
