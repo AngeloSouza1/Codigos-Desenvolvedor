@@ -1,4 +1,3 @@
-
 # Define a função para encontrar caracteres comuns em várias strings
 def caracteres_comuns(strings, ordem = :alfabetica)
     # Verifique se a matriz de strings está vazia
