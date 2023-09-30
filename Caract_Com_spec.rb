@@ -1,3 +1,4 @@
+
 require_relative 'Caract_Com.rb'
 require 'rspec'
 
