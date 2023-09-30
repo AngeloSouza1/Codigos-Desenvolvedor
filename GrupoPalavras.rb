@@ -1,4 +1,3 @@
-
 def agrupa_palavras_com_mesmo_conjunto_caracteres(words)
     # Crie um hash para mapear conjuntos de caracteres exclusivos para palavras
     conjunto_palavras = {}
