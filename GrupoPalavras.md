@@ -1,3 +1,4 @@
+
 Criação do hash: Inicializamos um hash chamado conjunto_palavras para mapear conjuntos de caracteres exclusivos para palavras.
 
 Iteração por palavras:
