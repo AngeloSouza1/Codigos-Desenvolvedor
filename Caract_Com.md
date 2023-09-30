@@ -1,4 +1,3 @@
-
 Este é um código em Ruby que encontra e exibe os caracteres comuns em várias strings, permitindo escolher entre duas formas de ordenação: alfabética ou lexicográfica (ignorando diferenças entre maiúsculas e minúsculas).
 
 Definição da função caracteres_comuns:
