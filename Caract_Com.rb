@@ -2,7 +2,7 @@
 def caracteres_comuns(strings, ordem = :alfabetica)
     # Verifique se a matriz de strings está vazia
     return [] if strings.empty?
-  
+ 
     # Inicialize um hash vazio para rastrear a frequência de caracteres comuns
     frequencia_comuns = Hash.new(0)
   
