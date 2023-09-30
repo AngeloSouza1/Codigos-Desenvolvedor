@@ -2,7 +2,6 @@
 require_relative 'Caract_Com.rb'
 require 'rspec'
 
-
 RSpec.describe '#caracteres_comuns' do
   it 'retorna caracteres comuns em várias strings em ordem alfabética' do
     strings = ["geeksforgeeks", "gemkstones", "acknowledges", "aguelikes"]
