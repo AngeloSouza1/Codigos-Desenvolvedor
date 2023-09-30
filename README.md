@@ -22,7 +22,8 @@ Criação de uma matriz de caracteres comuns:
 Cria uma matriz chamada caracteres_comuns com base na frequência final dos caracteres comuns, repetindo cada caractere na matriz a quantidade de vezes correspondente à sua frequência.
 Ordenação da matriz de acordo com a ordem especificada:
 
+
 Ordena a matriz caracteres_comuns com base na opção de ordenação especificada (:lexicografica ou :alfabetica).
-Conversão da matriz em uma string com vírgulas e remoção de caracteres duplicados:
+Conversão da matriz em uma string com vírgulas e remoção de caracteres duplicados.
 
 
