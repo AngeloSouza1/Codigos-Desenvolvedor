@@ -1,3 +1,4 @@
+
 require '/home/linux/Área de Trabalho/Curso DEV/Test_RSpec_Desenvolvedor/gem_algoritmos_dev/lib/algoritmo3/Data'
 
 
