@@ -1,3 +1,4 @@
+
 Conversão de data para dias:
 
     A função data_para_dias divide a data fornecida em dia, mês e ano, e converte para uma representação em dias (considerando 30 dias por mês e 365 dias por ano, como suposição).
