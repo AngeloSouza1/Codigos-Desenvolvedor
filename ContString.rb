@@ -5,6 +5,7 @@ def contar_caracteres(string)
     caracteres_especiais = 0  # Contador de caracteres especiais
     valores_numericos = 0  # Contador de valores numéricos
   
+
     # Iterando por cada caractere da string
     string.each_char do |caractere|
       if ('a'..'z').include?(caractere)
