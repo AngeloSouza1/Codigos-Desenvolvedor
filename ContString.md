@@ -1,4 +1,3 @@
-
 Inicialização dos contadores:
     
     São criados quatro contadores: caracteres_min, caracteres_mai, caracteres_especiais e valores_numericos, todos inicializados com o valor 0. Eles serão usados para acompanhar a contagem de diferentes tipos de caracteres.
