@@ -1,4 +1,3 @@
-
  
   # Converte a data no formato D/M/Y para uma representação em dias
   def data_para_dias(data)
