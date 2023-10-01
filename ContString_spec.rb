@@ -1,6 +1,7 @@
 require_relative 'ContString.rb'
 require 'rspec'
 
+
 describe 'contar_caracteres' do
     it 'conta caracteres minúsculos corretamente' do
       resultado = contar_caracteres('Olá Desenvolvedor!!')
