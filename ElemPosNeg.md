@@ -1,3 +1,4 @@
+
 Passo 1: Separação de Números Positivos e Negativos
 
 No início do programa, a lista arr é dividida em duas listas separadas: positive_nums e negative_nums. Isso é feito percorrendo cada elemento da lista original e decidindo se ele é positivo (maior ou igual a zero) ou negativo (menor que zero). Os números positivos são colocados em positive_nums, enquanto os números negativos são colocados em negative_nums. Isso cria duas listas que contêm elementos com base em sua positividade ou negatividade.
