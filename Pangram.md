@@ -1,3 +1,4 @@
+
 Criação do alfabeto:
 
 O código cria uma lista alfabeto que contém todas as letras minúsculas do alfabeto ('a' até 'z') utilizando o intervalo ('a'..'z').to_a.
