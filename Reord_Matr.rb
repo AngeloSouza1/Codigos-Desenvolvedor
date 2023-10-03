@@ -1,3 +1,4 @@
+
 def reordenar_arrays(arr, index)
   # Crie uma cópia do array original para evitar a modificação direta dele
   temp_arr = arr.dup
