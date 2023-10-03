@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> release/0.3
 Criação do hash: Inicializamos um hash chamado conjunto_palavras para mapear conjuntos de caracteres exclusivos para palavras.
 
 Iteração por palavras:
@@ -11,4 +14,8 @@ Verificamos se o conjunto já existe como uma chave no hash conjunto_palavras. 2
 
 Se o conjunto já existir, adicionamos a palavra ao conjunto existente no hash. Se o conjunto não existir, criamos um novo conjunto com a palavra no hash. Impressão das palavras com o mesmo conjunto de caracteres agrupadas:
 
+<<<<<<< HEAD
 Iteramos sobre os valores do hash conjunto_palavras (que são arrays de palavras com o mesmo conjunto de caracteres) e imprimimos essas palavras em uma única linha, separadas por vírgulas.
+=======
+Iteramos sobre os valores do hash conjunto_palavras (que são arrays de palavras com o mesmo conjunto de caracteres) e imprimimos essas palavras em uma única linha, separadas por vírgulas.
+>>>>>>> release/0.3

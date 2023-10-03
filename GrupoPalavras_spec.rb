@@ -1,6 +1,10 @@
 require 'rspec'
 require_relative 'GrupoPalavras.rb'
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> release/0.3
 RSpec.describe '#agrupa_palavras_com_mesmo_conjunto_caracteres' do
   it 'agrupa palavras com o mesmo conjunto de caracteres exclusivos' do
     words = ["may", "amy", "yam"]
