@@ -1,3 +1,4 @@
+
 # Função para calcular o dia da semana usando o algoritmo de Tomohiko Sakamoto
 def day_of_the_week(year, month, day)
     # Array com os valores dos dias iniciais para cada mês
