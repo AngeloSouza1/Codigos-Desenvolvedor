@@ -1,3 +1,4 @@
+
 def find_time(t, k)
     # Converter o horário de entrada em minutos
     hours, minutes = t.split(":").map(&:to_i)
