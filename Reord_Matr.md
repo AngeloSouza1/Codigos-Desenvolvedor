@@ -1,3 +1,4 @@
+
 Obtemos o tamanho do array arr para determinar o número de elementos que precisaremos reordenar.
 
 Criamos duas matrizes temporárias, temp_arr e temp_index, para armazenar os elementos reordenados e os novos índices.
