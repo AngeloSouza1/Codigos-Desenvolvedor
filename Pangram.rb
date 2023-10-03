@@ -1,3 +1,4 @@
+
 def caracteres_ausentes_para_pangram(string)
     alfabeto = ('a'..'z').to_a
     caracteres_faltantes = alfabeto - string.downcase.chars.uniq
