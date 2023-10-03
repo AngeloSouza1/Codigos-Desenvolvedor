@@ -1,3 +1,4 @@
+
 A função find_time recebe dois argumentos:
 
 t: Uma string representando o horário no formato "hh:mm".
