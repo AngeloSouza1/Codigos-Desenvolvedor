@@ -1,3 +1,4 @@
+
 # Função para reorganizar os elementos positivos em locais pares e os elementos negativos em locais ímpares no array.
 def rearrange_array(arr)
     # Crie duas listas separadas para elementos positivos e negativos.
