@@ -1,36 +1,25 @@
+
 def maximum_sum(arr, k)
-    n = arr.length
-  
-    # Modificar o array k vezes
-    for i in 1..k
-      min = Float::INFINITY
-      index = -1
-  
-      # Encontrar o elemento mínimo no array para a operação atual
-      for j in 0..(n - 1)
-        if arr[j] < min
-          min = arr[j]
-          index = j
-        end
-      end
-  
-      # Condição para lidar com o caso em que encontramos 0 como mínimo
-      if min == 0
-        break
-      end
-  
-      # Modificar o elemento do array
-      arr[index] = -arr[index]
-    end
-  
-    # Calcular a soma do array
-    sum = arr.sum
-    return sum
+  n = arr.length
+
+  # Modificar o array k vezes
+  k.times do
+    min = arr.min  # Encontrar o elemento mínimo no array
+    break if min >= 0  # Se o mínimo for não negativo, não há necessidade de continuar
+
+    # Encontrar o índice do elemento mínimo
+    index = arr.index(min)
+
+    # Modificar o elemento do array
+    arr[index] = -min
   end
-  
-  # Programa principal
-  arr = [-2, 0, 5, -1, 2]
-  k = 4
-  
-  #puts maximum_sum(arr, k)
-  
+
+  # Calcular a soma do array
+  arr.sum
+end
+
+# Programa principal
+arr = [-2, 0, 5, -1, 2]
+k = 4
+
+puts maximum_sum(arr, k)
